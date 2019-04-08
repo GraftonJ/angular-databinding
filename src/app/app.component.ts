@@ -21,7 +21,7 @@ export class AppComponent {
     this.serverElements.push({
       type: 'blueprint',
       name: blueprintData.serverName,
-      content: content: blueprintData.serverContent
+      content: blueprintData.serverContent
     });
   }
 }
